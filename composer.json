@@ -1,0 +1,26 @@
+{
+    "name": "jambtc/yii2-gchart-as-image",
+    "description": "Render Google chart as image",
+    "type": "yii2-extension",
+    "keywords": ["sergio casizzone","jambtc","yii2","extension","google chart","widget"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Sergio Casizzone",
+            "email": "jambtc@gmail.com"
+        }
+    ],
+  "support": {
+    "issues": "https://github.com/jambtc/yii2-gchart-as-image/issues",
+    "source": "https://github.com/jambtc/yii2-gchart-as-image"
+  },
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "jambtc\\googlechart\\": ""
+        }
+    }
+}
